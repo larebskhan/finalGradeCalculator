@@ -5,6 +5,7 @@ Created on Tues Nov 17 2020
 
 @author: Lareb Khan
 """
+#TODO: Add comments
 
 def main():
     moreGrades = 0
